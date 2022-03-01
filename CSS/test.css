@@ -20,5 +20,6 @@
     background-color: green;
     height: 200px;
     width: 200px;
-    display: relative;
+    position: relative;
+    display: inline;
 }
