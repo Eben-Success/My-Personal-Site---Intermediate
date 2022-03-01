@@ -4,7 +4,7 @@
     width: 100px;
     position: relative;
     display: inline-block;
-    right: 30;
+ 
 }
 
 .second{
@@ -18,7 +18,7 @@
 
 .last {
     background-color: green;
-    height: 200px;
+    height: 100px;
     width: 200px;
     position: relative;
     display: inline-block;
