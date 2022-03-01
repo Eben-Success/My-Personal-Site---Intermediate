@@ -2,8 +2,8 @@
     background-color:  red;
     height: 100px;
     width: 100px;
-    display: relative;
-    right: 50;
+    display: relative; 
+    right: 20;
 }
 
 .second{
