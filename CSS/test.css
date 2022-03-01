@@ -2,7 +2,7 @@
     background-color:  red;
     height: 100px;
     width: 100px;
-    display: inline;
+    display: relative;
     top: 50;
 }
 
@@ -10,12 +10,12 @@
     background-color: yellow;
     height: 100px;
     width: 100px;
-    display: inline;
+    display: relative;
 }
 
 .last {
     background-color: green;
     height: 100px;
     width: 100px;
-    display: inline;
+    display: relative;
 }
