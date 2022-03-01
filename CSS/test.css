@@ -11,7 +11,8 @@
     background-color: yellow;
     height: 100px;
     width: 100px;
-    display: relative;
+    position: relative;
+    display: inline;
 
 }
 
