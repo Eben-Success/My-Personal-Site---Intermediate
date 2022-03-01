@@ -3,6 +3,7 @@
     height: 100px;
     width: 100px;
     position: relative;
+    display: inline;
     right: 30;
 }
 
