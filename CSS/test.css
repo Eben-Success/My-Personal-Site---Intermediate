@@ -1,0 +1,21 @@
+.first {
+    background-color:  red;
+    height: 100px;
+    width: 100px;
+    display: inline;
+    top: 50;
+}
+
+.second{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    display: inline;
+}
+
+.last {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    display: inline;
+}
