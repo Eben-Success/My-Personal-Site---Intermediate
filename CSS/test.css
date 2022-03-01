@@ -19,7 +19,7 @@
 .last {
     background-color: green;
     height: 100px;
-    width: 200px;
+    width: 100px;
     position: relative;
     display: inline-block;
 }
