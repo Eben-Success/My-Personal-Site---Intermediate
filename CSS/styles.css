@@ -66,12 +66,12 @@ h3 {
 }
 
 .backend{
-    width: 50%;
+    width: 25%;
 }
 
 .flutter{
-    height: 50%;
-    width: 50%;
+    border-radius: 100%;
+    width: auto;
 }
 
 .skill-row {
