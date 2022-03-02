@@ -8,20 +8,24 @@ h1 {
 }
 
 .top-container {
+    position: relative;
     padding-top: 100px;
     background-color: #E4F9F5;  
-    position: relative;
-
 }
 
 .underline {
     text-decoration: underline;
-}
+} 
 
 .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
     
 }
 
 .bottom-cloud {
     position: absolute;
+    left: 300px;
+    bottom: 300px;
 }
