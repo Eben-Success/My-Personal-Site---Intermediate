@@ -7,18 +7,21 @@ h1 {
     margin-top: 0;
 }
 
-div {
+.top-container {
+    padding-top: 100px;
     background-color: #E4F9F5;  
+    position: relative;
+
 }
 
 .underline {
     text-decoration: underline;
 }
 
-.top-class {
-
+.top-cloud {
+    
 }
 
-.bottom-class {
+.bottom-cloud {
     position: absolute;
 }
