@@ -11,9 +11,9 @@
     background-color: yellow;
     height: 100px;
     width: 100px;
-    position: absolute;
+    position: relative;
     left: 100px;
-    top: 100;
+    top: 100px;
 
 
 }
@@ -22,8 +22,8 @@
     background-color: green;
     height: 100px;
     width: 100px;
-    position: absolute;
+    position: relative;
     left: 200px;
-    top: 200;
+    top: 200px;
  
 }
