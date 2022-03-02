@@ -55,30 +55,32 @@ h3 {
 }
 
 .profile-pic {
-    border-radius: 337px;
+    border-radius: 100%;
+    width: 25%;
+    margin-top: 100px;
 }
 
-
-
-.khali{
-    height: 40%;
-    width: 40%;
-    position: relative;
-    right: 5%;
-}
-
-.ubuntu {
-    height: 40%;
-    width: 40%;
-    position: relative;
-    left: 5%;
+.distros {
+    width: 25%;
+    border-radius: 100%;
 }
 
 .backend{
-    
+    width: 50%;
 }
 
 .flutter{
     height: 50%;
+    width: 50%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px  auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.flutter {
     width: 50%;
 }
