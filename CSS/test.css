@@ -2,9 +2,8 @@
     background-color:  red;
     height: 100px;
     width: 100px;
-    position: relative;
-    display: inline-block;
-    left: 14px;
+    position: absolute;
+    left: 10px;
  
 }
 
@@ -12,8 +11,7 @@
     background-color: yellow;
     height: 100px;
     width: 100px;
-    position: relative;
-    display: inline-block;
+    position: absolute;
     right: 200px;
 
 }
@@ -22,7 +20,6 @@
     background-color: green;
     height: 10px;
     width: 100px;
-    position: relative;
-    display: inline-block;
+    position: absolute;
     right: 300px;
 }
