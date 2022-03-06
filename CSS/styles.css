@@ -38,6 +38,8 @@ h3 {
     padding-top: 100px;
     position: relative;
     text-align: center;
+    margin-top: stretch 50px;
+
 }
 
 /* .bottom-container{
@@ -80,9 +82,11 @@ h3 {
 }
 
 .profile-pic {
-    border-radius: 100%;
-    width: 15%;
-    margin-top: 100px;
+    position: relative;
+    bottom: 50px;
+    width: 30%;
+    /* margin-top: 10px; */
+    margin: 0;
 }
 
 .distros {
@@ -196,4 +200,8 @@ a:hover{
 .contact-message {
     margin: 40px auto 60px;
     width: 40%;
+  }
+
+  .navbar {
+      background-color: #EAF6F6;
   }
