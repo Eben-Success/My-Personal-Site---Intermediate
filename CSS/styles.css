@@ -49,7 +49,7 @@ h3 {
     display: flex;
     padding-inline: 5rem; 
     gap: 3rem;
-    align-items: center;
+    align-items: left;
 
     /* flex-wrap: wrap; */
     
